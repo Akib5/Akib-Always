@@ -6,7 +6,7 @@
 I’ve been working on web designing and development since 2018 for helping people to build their websites, fixing issues, managing, and developing. I’ve built more than a hundred websites, fixed a lot of problems, and helped many clients with their websites.
 
 
-Skills: html5 <br/> css3  <br/> bootstrap  <br/> javaScript  <br/> wordpress  <br/> psd to html  <br/>Ecommerce 
+Skills:  <br/> 👍html5 <br/> 👍css3  <br/> 👍bootstrap  <br/> 👍javaScript  <br/> 👍wordpress  <br/> 👍psd to html  <br/>👍Ecommerce 
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
