@@ -1,11 +1,12 @@
+![Web developer and Wordpress expert]( https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/282216009_154085727160194_8505638267372734390_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGgXnOniRA_infw8lSr09Ub5pSjEiybKPfmlKMSLJso9w5A-rr_FFeblaA-xbbg_V2gD71fYZj0QVU5r4BN3qFH&_nc_ohc=gNP5cbakddcAX8iYUvc&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT8hNkjigVAkF5hpCLdUIm-xQhy4kGDgD_6mMRNeW6cE_w&oe=6293ED50)
+
 ### Hi there 👋, I'am Akib hossain
 #### Web developer and Wordpress expert
-![Web developer and Wordpress expert]( https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/282216009_154085727160194_8505638267372734390_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGgXnOniRA_infw8lSr09Ub5pSjEiybKPfmlKMSLJso9w5A-rr_FFeblaA-xbbg_V2gD71fYZj0QVU5r4BN3qFH&_nc_ohc=gNP5cbakddcAX8iYUvc&_nc_ht=scontent.fcgp7-1.fna&oh=00_AT8hNkjigVAkF5hpCLdUIm-xQhy4kGDgD_6mMRNeW6cE_w&oe=6293ED50)
 
 I’ve been working on web designing and development since 2018 for helping people to build their websites, fixing issues, managing, and developing. I’ve built more than a hundred websites, fixed a lot of problems, and helped many clients with their websites.
 
 
-Skills: html5 / css3 / bootstrap / javaScript / wordpress / psd to html /Ecommerce 
+Skills: html5 <br/> css3  <br/> bootstrap  <br/> javaScript  <br/> wordpress  <br/> psd to html  <br/>Ecommerce 
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
