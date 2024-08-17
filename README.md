@@ -83,7 +83,7 @@ Skills:  HTML / CSS / tailwind CSS / BOOTSTRAP / REACT / JS
 
 <p align="center">
   <a href="https://github.com/Akib-Always">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akib-Always&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akib-Always&theme=radical" alt=" Akib GitHub Contribution"/>
   </a>
 </p>
 
@@ -98,7 +98,7 @@ Skills:  HTML / CSS / tailwind CSS / BOOTSTRAP / REACT / JS
 <br/>
 
 <br/>
-
+<img src=" https://www.flaticon.com/free-icon/social-media_2065064" alt=" Akib GitHub Contribution"/>
 ## Connect with me
 
 <div align="center">
