@@ -1,4 +1,4 @@
-![I am akib-always]([https://github.com/Akib5/Akib-Always/blob/main/code.png](https://github.com/Akib5/akib-always/blob/main/4102879_971.jpg)
+![I am akib-always](https://github.com/Akib5/akib-always/blob/main/4102879_971.jpg)
 
 <h1 align="center">Hi 👋, I'm  Mohammand Akib </h1>
 <h3 align="center">Programmer 👮 Web Designer 👮 Speed Learner</h3>
